@@ -1,8 +1,7 @@
 import java.util.*;
 
 /**
- * Backtracking solution - always complete blanks with the fewest
- * number of choices first
+ * Backtracking solution - always complete blanks with the fewest choices first
  */
 class Solver_v2 {
     public void solveSudoku(char[][] board) {
